@@ -1,0 +1,68 @@
+.section-login{
+	min-height: 800px;
+	background-color: #FFCCFF	;
+}
+.form-background{ /*DANGNHAP*/
+
+	margin-top: 60px;
+	margin-bottom:20px;
+	padding-top: 10px;
+	padding-bottom: 50px;
+	background-color: #fec08f;
+}
+.form-background-1{   /*DANGKY*/
+	margin-top: 40px;
+	margin-bottom:20px;
+	padding-bottom: 30px;
+	background-color: #fec08f;
+}
+
+h2{
+	 font-style:italic;
+	text-align: center;
+	padding-top: 30px;
+}
+.form-background >h2{
+	
+	 font-style:italic;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.form-item{
+	margin-bottom: 30px;
+}
+.form-item-1{
+	margin-bottom: 20px;
+}
+
+.remember{
+	margin-bottom: 13px;
+}
+.remember >a{
+	text-align: right;
+	padding-left:47px;
+}
+.login{
+	width: 110px;
+	height: 40px;
+	text-align: center;
+	margin-top: 20px;
+	outline: none;
+	background-color: #FF00FF;//mau nen cua lOGIN
+	 font-style:italic;
+	 font-weight: bold;
+	 font-size: 1.22em;
+	 color: white;
+	 margin-left: 44px;
+
+}
+.form-group-a{
+	text-align: center;
+}
+.Avata-upload{
+	margin-top: 10px;
+}
+.birth-day{
+	width: 347px;
+}

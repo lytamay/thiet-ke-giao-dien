@@ -1,0 +1,63 @@
+html,body{
+	width: 100%;
+	height: 100%;
+	color: #222;
+}
+.navbar-brand{
+	font-family: blacker;
+	color:	#FF0000;
+	font-size: 20px;
+	padding-top: 10px;
+}
+.navbar{
+	font-family: blacker;
+	background-color: #BCA9F5;
+	font-size: 20px;
+
+}
+.navbar li a{
+	color: white !important;
+}
+.carousel-inner img{
+	width: 100%;
+	height: 50%;
+}
+.carousel-caption{
+	position: absolute;
+	top: 20%;
+}
+.caption>h1{
+	font-size: 600%;
+	text-shadow: 5px 5px 15px #000;
+	font-family: blacker;
+	color: 	#FFA500;
+}
+.aa{
+	margin-left:15px;
+}
+.caption>h3{
+	font-family: Coldiac;
+	font-size: 300%;
+	margin-top: 20px;
+	color: #FF8C00;
+	text-shadow: 5px 5px 15px #000;
+}
+.caption1>h1{
+	font-size: 600%;
+	text-shadow: 5px 5px 15px #000;
+	font-family: blacker;
+}
+.caption1>h3{
+	font-family: Coldiac;
+	font-size: 300%;
+	margin-top: 20px;
+	margin-top: 20px;
+	text-shadow: 5px 5px 15px #000;
+}
+.caption1>button{
+	width: 130px;
+	text-align: center;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+
