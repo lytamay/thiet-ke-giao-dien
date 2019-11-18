@@ -2,9 +2,37 @@
 .user{
 	width:25px;
 }
+.ii{
+	font-size:150%;
+	color: #696969; 
+	font-family: vlagilescripline; 
+	font-style: italic;
+}
+.lienhe1{
+	background-color: #FF7F50;
+	color: white;
+	font-style: italic;
+	font-size: 160%;
+	border-radius: 15px;
+}
+.chitiet1{
+	font-size: 110%;
+}
+.vitri1{
+	color: #1C1C1C;
+	font-size: 140%;
+}
+.dientich1{
+	font-size: 120%;
+}
 .aa{
 	margin-left:20px;
 	color: red;
+}
+.luachon{
+	font-family: blacker;
+	font-size: 200%;
+	color: #1C1C1C;
 }
 html,body{
 	width: 100%;
@@ -23,7 +51,14 @@ html,body{
 	font-size: 20px;
 
 }
+.ten{
+	color: #FFA500;
+	font-size: 200%;
+	font-family: blacker;
+
+}
 .navbar li a{
+	padding-top: 12px;
 	padding-bottom: 10px;
 	color: white !important;
 }
@@ -75,7 +110,8 @@ html,body{
 	padding-top: 14px;
 }
 .anhnen2{
-	float:left;
+
+	text-align: center;
 }
 .Search{
 	border-radius: 25px;
@@ -120,4 +156,93 @@ html,body{
 .chung1{
 	font-family: blacker;
 	color: #848484;
+}
+.pagination1{
+	height: 4px;
+	margin-bottom: 70px;
+}
+.bottom{
+	margin-top: 40px;
+	background-color: #F5A9F2;
+	background-image: url("./image/anhdep1.jpg");
+	background-repeat: no-repeat;
+	margin-left: 7px;
+	 background-position: right;
+	 background-size: 100% 100%;
+	height: 200px;
+	 position: relative;
+}
+.lienket{
+	width: 30px;
+	height: 30px;
+	margin-left: 15px;
+}
+.cc{
+	font-size: 200%;
+	color: white;
+	font-family: blacker;
+}
+.bb{
+	font-size: 200%;
+	color: white;
+	font-family: blacker;
+}
+.diachi{
+	font-size: 120%;
+	color: white;
+	font-family: blacker;
+}
+.e{
+	color: white;
+	font-family: blacker;
+	font-size: 150%;
+
+}
+.email{
+	font-family: blacker;
+	font-size: 150%;
+	color: white;
+}
+.ee{
+	color: white;
+	font-family: blacker;
+	font-size: 150%;
+}
+.sdt{
+	color: red;
+	font-size: 200%;
+
+}
+.glyphicon3{
+	width: 10px;
+	margin-right: 15px;
+}
+.vitri{
+	font-size: 150%;
+	color:#1C1C1C;
+	/*text-align: left;*/
+	padding-top: 12px;
+
+}
+.dientich{
+	font-size: 150%;
+	color:#1C1C1C;
+	/*text-align: left;*/
+}
+.chitiet{
+	font-size: 120%;
+	color:#1C1C1C;
+	/*text-align: left;*/
+
+}
+.chinh{
+	font-size: 200%;
+	color:#FF3300;
+	/*text-align: center;*/
+	
+}
+.giam{
+	font-size: 130%;
+	color: #8B4513;
+
 }
