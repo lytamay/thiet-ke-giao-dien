@@ -1,6 +1,6 @@
 .section-login{
 	min-height: 800px;
-	background-color: #FFCCFF	;
+	background-color: white;
 }
 .form-background{ /*DANGNHAP*/
 
@@ -19,13 +19,16 @@
 
 h2{
 	 font-style:italic;
+	 font-family: blacker;
 	text-align: center;
+	font-size: 300%;
 	padding-top: 30px;
 }
 .form-background >h2{
 	
 	 font-style:italic;
 	text-align: center;
+	font-size: 300%;
 	padding-top: 30px;
 }
 
@@ -44,17 +47,18 @@ h2{
 	padding-left:47px;
 }
 .login{
-	width: 110px;
+	width: 120px;
 	height: 40px;
 	text-align: center;
 	margin-top: 20px;
 	outline: none;
-	background-color: #FF00FF;//mau nen cua lOGIN
+	background-color: #8470FF;//mau nen cua lOGIN
 	 font-style:italic;
 	 font-weight: bold;
 	 font-size: 1.22em;
 	 color: white;
-	 margin-left: 44px;
+	 margin-left: 36px;
+	 border-radius: 20px;
 
 }
 .form-group-a{
