@@ -1,15 +1,16 @@
 .navbar-brand{
 	font-family: blacker;
-	/*color:	#FF0000;*/
+	color:	#FF0000;
 	font-size: 20px;
-	padding-top: 10px;
-	color: white;
+	margin-top: 4px;
 
 }
 .navbar{
 	font-family: blacker;
 	background-color: #BCA9F5;
 	font-size: 20px;
+	background-color: rgb(0,0,0);
+	background-color: rgba(0,0,0, 0.2);
 
 }
 .navbar li a{
@@ -100,4 +101,38 @@
 }
 .caption2 >p{
 	margin-top: 1px;
+}
+
+.truoc{
+	margin-left: 13px;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 10px;
+	border-color: #D8D8D8;
+	width: 80px;
+	font-size: 20px;
+	background-color: white;
+	box-shadow: 3px 4px 12px #DCDCDC;
+	
+}
+	
+.sau{
+	background-color: white;
+	margin-left: 13px;
+	border-color: #D8D8D8;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 10px;
+	border-color: ;
+	width: 80px;
+	text-align: center;
+	font-size: 20px;
+	box-shadow: 3px 4px 12px #DCDCDC;
+}
+.glyphicon-menu-hamburger{
+	margin-left: 13px;
+	color: white;
+	background-color: rgb(0,0,0);
+	background-color: rgba(0,0,0, 0.2);
+	font-size:20px; 
 }
