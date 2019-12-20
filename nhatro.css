@@ -7,10 +7,10 @@
 }
 .navbar{
 	font-family: blacker;
-	background-color: #BCA9F5;
+	background-color: #0404B4;
 	font-size: 20px;
-	background-color: rgb(0,0,0);
-	background-color: rgba(0,0,0, 0.2);
+	background-color: rgb(4,4,180);
+	background-color: rgba(4,4,180, 0.8);
 
 }
 .navbar li a{
