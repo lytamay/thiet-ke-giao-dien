@@ -1,4 +1,5 @@
 
+
 .user{
 	/*width:25px;*/
 	 vertical-align: middle;
@@ -64,11 +65,11 @@ html,body{
 	font-family: blacker;
 
 }
-.navbar li a{
+/*.navbar li a{
 	padding-top: 12px;
 	padding-bottom: 10px;
 	color: white !important;
-}
+}*/
 
 .logo{
 	background-image: url("./image/gach.jpg");
@@ -93,8 +94,10 @@ html,body{
 .welcom hr{
 	border-top: 2px solid rgba(62,64,100,0.6);
 }
-.timkiem1{background-color: #F5A9A9;
+div.timkiem1{
+	background-color: rgba(0,0,0,0.4);
 	margin-top: 12px;
+	position: relative;
 }
 #timkiem{
 	margin-top: 20px;
@@ -113,20 +116,41 @@ html,body{
 	width: 160px;
 	height: 40px;
 	text-align: center;
+	border-radius: 7px;
 
 }
-.timnhanh{
+div.timnhanh{
 	padding-top: 14px;
+	
+
+}
+span.glyphicon-search{
+	/*padding-top: 14px;*/
+	position: absolute;
+	top: 20px;
+	font-size: 30px;
+	margin-left: 3px;
+	
 }
 .anhnen2{
 	/*position: absolute;*/
 	text-align: center;
 }
+
+/*.glyphicon-search{
+	position: absolute;
+	bottom:10px;
+	margin-left: 7px;
+	font-size: 30px;
+	padding-top:3px;
+}*/
 .Search{
-	border-radius: 25px;
+	border-radius: 10px;
 	font-size: 200%;
 	width: 130px;
-	margin-bottom: 20px;
+	/*height: 50px;*/
+	/*padding-bottom: 20px;*/
+	margin-bottom: 22px;
 	font-family: blacker;
 }
 .phongmoi{
@@ -139,10 +163,11 @@ html,body{
 }
 .nhatro1{
 	/*position: absolute;*/
-	background-color: rgb(0 ,0 ,0);
+	/*background-color: rgb(0 ,0 ,0);
 	background-color: rgba(0,0,0,0.7);
-	background-color: #BDBDBD;
+	background-color: #BDBDBD;*/
 	font-family:blacker;
+
 }
 .nhatro{
 	padding-top: 10px;
@@ -222,7 +247,7 @@ html,body{
 	font-size: 150%;
 }
 .sdt{
-	color: red;
+	color: rgba(255,0,0,0.8);
 	font-size: 200%;
 
 }

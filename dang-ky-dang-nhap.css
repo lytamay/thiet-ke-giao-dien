@@ -24,6 +24,7 @@ html,body{
 }
 .navbar li a{
 	color: white !important;
+	margin-left: 12px;
 }
 .carousel-inner img{
 	width: 100%;
@@ -82,4 +83,3 @@ html,body{
 	color:white;
 	font-size: 20px
 }
-
